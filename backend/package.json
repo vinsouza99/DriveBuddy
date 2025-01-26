@@ -1,0 +1,14 @@
+{
+  "name": "drivebuddy-server",
+  "version": "1.0.0",
+  "description": "Server for the DriveBuddy app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Vin Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
